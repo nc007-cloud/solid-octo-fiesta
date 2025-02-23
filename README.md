@@ -1,6 +1,6 @@
 # solid-octo-fiesta
 Comparing Classifiers
-# Comparing Classifiers – Assignment 17.1
+# Comparing Classifiers
 
 ## Overview
 This project focuses on predicting whether a client will subscribe to a term deposit (bank marketing dataset) by comparing multiple classification models. The notebook explores data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, and final recommendations based on various performance metrics (accuracy, precision, recall).
