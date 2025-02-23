@@ -5,8 +5,8 @@ Comparing Classifiers
 ## Overview
 This project focuses on predicting whether a client will subscribe to a term deposit (bank marketing dataset) by comparing multiple classification models. The notebook explores data preprocessing, exploratory data analysis (EDA), model training, hyperparameter tuning, and final recommendations based on various performance metrics (accuracy, precision, recall).
 
-**Link to the Notebook:** [Comparing_Classifiers.ipynb](./Comparing_Classifiers.ipynb)  
-*(Update this link to match your actual notebook file name and path.)*
+**Link to the Notebook:** [https://github.com/nc007-cloud/solid-octo-fiesta/blob/main/comparing_classifiers.ipynb]  
+**
 
 ---
 
